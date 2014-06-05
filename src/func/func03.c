@@ -8,7 +8,7 @@ void main()
 	scanf("%f %f",&a,&b);
 	c = max(a,b);
 
-	/**×¢ÒâÊä³ö
+	/**æ³¨æ„è¾“å‡º
     printf("Max is %d :",c);
     **/
     printf("Max is %f\n",c);
