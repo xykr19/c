@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void main()  //stdcall  ×ÔÓÒÏò×ó
+void main()  //stdcall è‡ªå³å‘å·¦
 {
     int f(int a,int b);
 
